@@ -1,2 +1,2 @@
 # Final-Uni-Project
-This Repo is a summary of the skills i have aquired during my 3 years studying software engineering and management at the University of Gothenburg
+This project is supposed to be a display of some of the skills i have aquired during my 3 years as a software engineering student at the University of Gothenburg
